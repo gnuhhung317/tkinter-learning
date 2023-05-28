@@ -1,1 +1,1 @@
-equal_click(
+grid

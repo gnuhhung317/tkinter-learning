@@ -103,4 +103,4 @@ class MyGUI:
             self.entry.insert(0,self.s_num)
         self.math=""
         self.equal=True
-Hung=MyGUI()
+Ducung=MyGUI()
